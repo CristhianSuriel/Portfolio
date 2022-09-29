@@ -39,7 +39,7 @@ export const prjData = [
     name: "Simple Web Design",
     description: "Designed a webpage from scratch using basic HTML and CSS",
     techUsed: "Tech Used: HTML, CSS",
-    URL: "https://github.com/CristhianSuriel/GreenHouseProject",
+    URL: "https://github.com/CristhianSuriel/Web-design",
     img: WebDesign,
   },
 ];
