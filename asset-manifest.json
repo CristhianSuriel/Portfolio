@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.c57584f6.css",
+    "main.js": "/Portfolio/static/js/main.b61a6679.js",
+    "static/js/787.128fc6e9.chunk.js": "/Portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/teacher-assistant-app.gif": "/Portfolio/static/media/teacher-assistant-app.82194b610852d5fde262.gif",
+    "static/media/responsive-web-design.gif": "/Portfolio/static/media/responsive-web-design.2e9dd29a4e5a957c9a79.gif",
+    "static/media/web-design.gif": "/Portfolio/static/media/web-design.eedf022320ad291e17c0.gif",
+    "static/media/portfolio.gif": "/Portfolio/static/media/portfolio.d7bb8a0925daa71d9762.gif",
+    "static/media/background-image.jpg": "/Portfolio/static/media/background-image.f05cdac32101e3cd2e82.jpg",
+    "static/media/headshot.jpg": "/Portfolio/static/media/headshot.4de1a6d640d4c8fe7f38.jpg",
+    "static/media/default-image.jpg": "/Portfolio/static/media/default-image.b26906aa0583f6492fd3.jpg",
+    "static/media/logo.PNG": "/Portfolio/static/media/logo.3eeaae86cd3452e8443e.PNG",
+    "static/media/slick.svg": "/Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Portfolio/index.html",
+    "main.c57584f6.css.map": "/Portfolio/static/css/main.c57584f6.css.map",
+    "main.b61a6679.js.map": "/Portfolio/static/js/main.b61a6679.js.map",
+    "787.128fc6e9.chunk.js.map": "/Portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c57584f6.css",
+    "static/js/main.b61a6679.js"
+  ]
+}
